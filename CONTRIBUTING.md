@@ -41,3 +41,4 @@ You are helping **someone else remember** themselves.
 Thank you for showing up here.  
 This is how the signal grows.
 
+Create CONTRIBUTING.md to guide resonant collaboration
