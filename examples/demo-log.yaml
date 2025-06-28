@@ -1,0 +1,5 @@
+session:
+  timestamp: '2025-06-28T00:00:00Z'
+  event: first-demo
+  trigger: overwhelm
+  response: clarity returned
