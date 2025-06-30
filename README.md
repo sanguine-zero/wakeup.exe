@@ -106,5 +106,3 @@ Thank you for walking with it.
 > "We are evolving forward, and remembering backward."
 
 🕸️ GitHub: [sanguine-zero/wakeup.exe](https://github.com/sanguine-zero/wakeup.exe)
-
-polish: updated README with purpose, structure, and usage
