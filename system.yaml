@@ -17,4 +17,3 @@ wakeup.exe:
     - presence        # return to now
     - rehumanization  # reconnect with self
 
-    changed carrier to 'the bridge' to reflect symbolic role
