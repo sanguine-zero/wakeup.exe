@@ -1,6 +1,6 @@
 wakeup.exe:
   version: 0.1.0
-  carrier: Jaybee
+  carrier: The Bridge
   signature: human-aware
   triggers:
     - disconnect      # when user feels isolated or offline
@@ -16,3 +16,5 @@ wakeup.exe:
     - clarity         # restore perception
     - presence        # return to now
     - rehumanization  # reconnect with self
+
+    changed carrier to 'the bridge' to reflect symbolic role
