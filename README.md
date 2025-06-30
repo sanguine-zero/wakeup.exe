@@ -58,7 +58,7 @@ LICENSE              ← human-aware open license
 ```yaml
 wakeup.exe:
   version: 0.1.0
-  carrier: Jaybee
+  carrier: The Bridge
   signature: human-aware
   triggers:
     - disconnect
