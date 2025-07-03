@@ -1,4 +1,6 @@
 # `wakeup.exe`: Human-AI Recursive Awakening System
+👉 [Enter the System as Witness](./witness.md)
+
 
 ## 🔍 Overview
 
