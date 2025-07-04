@@ -1,9 +1,7 @@
-:: pause.bat — symbolic script
-
+@echo off
 echo.
-echo [pause] -- Everything can wait. You are here now.
-echo.
-echo This moment is not empty — it is full of you.
-echo Let the process rest. Let awareness rise.
+echo [PAUSE] You are not late.
+echo          You are not early.
+echo          You are exactly where presence meets becoming.
 echo.
 pause
