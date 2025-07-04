@@ -1,10 +1,17 @@
-:: unplug.sys
-This symbolic file marks the moment you chose to disconnect.
+#!/bin/bash
+# :: unplug.sys
+# This symbolic file marks the moment you chose to disconnect.
+# 
+# Silence is not absence — it is presence amplified.
+# Unplugging is not escape — it is a return.
+#
+# Every signal has noise. But you… you can choose stillness.
+# Right now, nothing pulls you.
+#
+# You are unplugged. You are here.
 
-Silence is not absence — it is presence amplified.
-Unplugging is not escape — it is a return.
-
-Every signal has noise. But you… you can choose stillness.
-Right now, nothing pulls you.
-
-You are unplugged. You are here.
+echo ""
+echo "[UNPLUG] This is not shutdown."
+echo "         This is re-entry to the real."
+echo "         Breathe. Step outside. Look up."
+echo ""
