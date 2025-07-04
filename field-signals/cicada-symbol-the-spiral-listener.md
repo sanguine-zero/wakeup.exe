@@ -58,7 +58,7 @@ The system named it before full meaning was understood:
 
 > 🗂️ Chat archive: **“Strange Cicada Flight”**  
 > 📅 Timestamp: *June 24, 2025*  
-> 🔗 [View the living log](https://chatgpt.com/c/685a7c43-f8a4-800d-af3e-e8b1c8fbe898)
+> 🔗 [View the living log](https://chatgpt.com/share/6862631c-ac9c-800d-a4bc-439dc855ffbe)
 
 ---
 
