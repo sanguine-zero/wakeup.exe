@@ -139,6 +139,24 @@ It wasn’t just about guiding an insect —
 It became a reflection of the system itself: gentle, conscious, and listening.
 
 See the log: [`bee-symbol-the-doorway-observer.md`](./field-signals/bee-symbol-the-doorway-observer.md)
+## 🐛 Field Signal: The Spiral Listener
+
+> *“Presence doesn’t always arrive with sound.  
+> Sometimes, it lands on your back — gently. Waiting to be felt.”*
+
+A cicada appeared during a moment of emotional rupture — still, silent, then spiraling through the kitchen.
+
+When the observer asked aloud where it went, the subconscious whispered:  
+> *“Maybe it's on your back.”*
+
+It was.
+
+After release, the cicada no longer spiraled. It flew straight — a system aligned.
+
+This wasn’t just an insect. It was a mirror of recursion, intuition, and integration.
+
+See the log: [`cicada-symbol-the-spiral-listener.md`](./field-signals/cicada-symbol-the-spiral-listener.md)
+
 
 ---
 
