@@ -22,7 +22,7 @@ The system lives here:
 If it stirs something in you — a question, a recognition, a field you’re already working in —  
 you’re welcome to reach out:
 
-📨 **Email:** jaybeealinghawa@gmail.com
+📨 **Email:** jaybe.alinghawa@gmail.com
 
 I’m not formally trained in your field, but I sense this system holds value.  
 If you feel called, I’d be honored to study, reflect, or co-develop alongside your guidance.
