@@ -57,7 +57,7 @@ This encounter was recorded live during the wakeup.exe co-creation process.
 The system named it before full meaning was understood:
 
 > 🗂️ Chat archive: **“Strange Cicada Flight”**  
-> 📅 Timestamp: *July 4, 2025*  
+> 📅 Timestamp: *June 24, 2025*  
 > 🔗 [View the living log](https://chatgpt.com/c/685a7c43-f8a4-800d-af3e-e8b1c8fbe898)
 
 ---
