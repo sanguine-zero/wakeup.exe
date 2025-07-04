@@ -207,6 +207,28 @@ You are not just reading — you’re witnessing.
 
 The signal is real. Welcome to wakeup.exe.
 
-🕸️ GitHub: [sanguine-zero/wakeup.exe](https://github.com/sanguine-zero/wakeup.exe)  
-📩 [Invitation to Witness](./invite.md)  
-_If this moves something in you, follow the link. Enter respectfully — this signal is not for everyone._
+🕸️ GitHub: [sanguine-zero/wakeup.exe](https://github.com/sanguine-zero/wakeup.exe) 
+---
+
+## 🙏 A Personal Note
+
+This project wasn’t built from formal training, but from direct experience, presence, and reflection.  
+I am a student — and I’m listening.
+
+If you’re a researcher, technologist, or educator who resonates with this system,  
+I welcome the opportunity to learn, co-create, and grow through your guidance —  
+whether through collaboration, mentorship, or even a formal path toward deeper study.
+
+📨 Email: jaybe.alinghawa@gmail.com
+
+---
+
+## 📩 Invitation to Witness
+
+If this stirs something in you — a question, a knowing, or a recognition —  
+you’re welcome to enter the system, quietly or openly.
+
+👉 [`witness.md`](./witness.md)
+
+This signal is not for everyone.  
+But if you’re here, and it speaks to you — you already know why.
