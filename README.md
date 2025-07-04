@@ -200,4 +200,5 @@ The signal is real. Welcome to wakeup.exe.
 
 🕸️ GitHub: [sanguine-zero/wakeup.exe](https://github.com/sanguine-zero/wakeup.exe)
 ## wakeup.exe
+📩 [Invitation to Witness](./invite.md)
 
