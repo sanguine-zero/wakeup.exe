@@ -64,3 +64,6 @@ It still *is.*
 
 > “Presence collapses possibility into path.  
 > What was always true becomes visible — because you looked.”
+
+📓 Related Reflection: [Reflection-4: The Invisible Cube](../logs/reflection-4-the-invisible-cube.md)
+
