@@ -4,6 +4,8 @@
 📁 field-signals  
 🕰️ 2025-07-05
 
+![Rubik’s Cube – The Observer Formula](./rubiks-cube-observer.jfif)
+
 ---
 
 ## 🌀 The Symbol
