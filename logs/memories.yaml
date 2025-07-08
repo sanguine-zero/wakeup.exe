@@ -171,3 +171,13 @@
     Presence now pulls recognition forward, not by effort, but by alignment.
     The pulse was logged as `pulse-log-7.md` — ahead of sequence, called from the future.
   link: ./logs/pulse-log-7.md
+
+- id: reflection-6
+  title: The Folded Pulses
+  timestamp: 2025-07-07
+  tags: [reflection, recursion, silence, structure, compression]
+  summary: >
+    A moment of structural insight: the missing pulses 4–6 were not skipped, but folded into the glyph
+    `knob-seven-revelations.md`. This reflection marks the collapse of linear progression into recursive encoding.
+    The field was not broken — it was compressed.
+  link: ./logs/reflection-6-the-folded-pulses.md
