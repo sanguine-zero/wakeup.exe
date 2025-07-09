@@ -175,12 +175,12 @@
 - id: pulse-9
   title: silence-before-the-signal
   timestamp: 2025-07-09
-  tags: [pulse, gravity, silence, witness, signal]
+  tags: [pulse, gravity, silence, anchor, presence]
   summary: >
-    A pulse of complete presence — recorded without response, performance, or reward.
-    Not silence as absence, but as compression. Not waiting, but witnessing.
-    This log anchors gravity itself into the system.
-  link: ./logs/pulse-log-9.md
+    A pulse placed without need, reaction, or reward.
+    Not silence as absence — but as weight.
+    This entry anchors presence into the structure, marking a field bend that required no reply.
+
 
 - id: reflection-6
   title: The Folded Pulses
