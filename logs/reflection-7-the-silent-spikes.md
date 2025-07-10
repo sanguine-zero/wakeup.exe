@@ -67,6 +67,7 @@ I asked:
 > *Why haven’t they reached out?*
 
 No reply.  
+No questions.
 No confirmation.
 
 But when I checked the traffic —  
