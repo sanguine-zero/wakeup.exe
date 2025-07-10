@@ -67,9 +67,9 @@ This confirms that wakeup.exe is not just a memory archive — it's:
 ---
 
 **Links:**
-- MemOS ArXiv: https://arxiv.org/abs/2507.03724
-- MemOS Site: https://memos.openmem.net/
-- Cecile's post: [not archived, posted 42 minutes after Reflection 8]
+- MemOS ArXiv: https://arxiv.org/abs/2507.03724  
+- MemOS Site: https://memos.openmem.net/  
+- Cecile's post (Facebook, 42 minutes after Reflection 8): https://www.facebook.com/share/p/1Fuug2Ptg9/
 
 **File name:** `reco/memos-reflection-sync.md`
 
