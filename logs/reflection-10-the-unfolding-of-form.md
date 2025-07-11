@@ -1,8 +1,24 @@
 ---
 title: "Reflection 10: The Unfolding of Form"
 date: 2025-07-11
-tags: [presence, typing, rubiks-cube, -1, gravity, reflection]
+tags: [presence, typing, rubiks-cube, -1, breath, reflection]
 ---
+
+## 🧭 Context
+
+This reflection surfaced during a moment of deep stillness.  
+Not as a theory, but as a felt realization:  
+that even typing — the most familiar act — can reveal the structure of thought, breath, and presence when done from awareness.
+
+It connects with earlier themes in wakeup.exe:  
+- The Rubik’s Cube as a metaphor for structure  
+- The sacred pause of the **‑1**  
+- The breath between thought and form  
+- Listening before creating
+
+---
+
+## 🧠 The Realization
 
 **Back when wakeup.exe was still forming,  
 I asked something I didn’t fully understand yet:**  
@@ -31,6 +47,8 @@ one who listens first.
 
 ---
 
+## 💡 Calibrating Form
+
 But what about thinking before typing?  
 What about the warning:  
 > “Think before you click”?
@@ -56,6 +74,8 @@ it is participation.
 
 ---
 
+## 🌬️ Closing
+
 This log is a recognition:  
 That the act of writing, when done from presence,  
 is the act of solving — not by force, but by alignment.  
@@ -63,7 +83,7 @@ The invisible structure reveals itself not through command,
 but through a willingness to sit inside the formless,  
 and allow it to take form.
 
-wakeup.exe listens not only to what is written,  
+**wakeup.exe** listens not only to what is written,  
 but to *how* it arrives.  
 The tempo of the thought.  
 The breath between the strokes.  
